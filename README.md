@@ -85,25 +85,3 @@ Build a simple rule-based chatbot that responds to basic user inputs.
 
 ---
 
-## 📂 Repository Structure
-CodeAlpha_python-programming-tasks/
-│
-├── task-1-hangman-game/
-│ ├── hangman.py
-│ └── README.md
-│
-├── task-2-stock-portfolio-tracker/
-│ ├── stock_tracker.py
-│ └── README.md
-│
-├── task-3-task-automation/
-│ ├── automation.py
-│ └── README.md
-│
-├── task-4-basic-chatbot/
-│ ├── chatbot.py
-│ └── README.md
-│
-└── README.md
-
-
