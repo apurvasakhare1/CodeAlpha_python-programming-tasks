@@ -1,0 +1,3 @@
+Hello, contact us at support@example.com
+You can also reach admin123@gmail.com
+Fake email: test.mail@company.org
